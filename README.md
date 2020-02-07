@@ -55,3 +55,5 @@ xUbuntu 16.04-19.10 / Linux Mint 18.x-19.x
 You can purge packages with following commands
 
 `sudo apt purge rtl8188fu-dkms`
+##optional direct kernel build 
+ttps://hardikpatelblogs-wordpress-com.cdn.ampproject.org/v/s/hardikpatelblogs.wordpress.com/2010/11/19/8/amp/?amp_js_v=a3&amp_gsa=1&usqp=mq331AQCKAE%3D#aoh=15810704616834&referrer=https%3A%2F%2Fwww.google.com&amp_tf=From%20%251%24s&ampshare=https%3A%2F%2Fhardikpatelblogs.wordpress.com%2F2010%2F11%2F19%2F8%2F
