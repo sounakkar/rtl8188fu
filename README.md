@@ -1,5 +1,5 @@
-For Kernel 4.15.x ~ 5.4.x (Linux Mint or Ubuntu or All Debian Derivatives)
-tested on debian 10 buster with signed kernel 5.4.x & kernel 4.19.x
+For Kernel 4.15.x ~ 5.5.x (Linux Mint or Ubuntu or All Debian Derivatives)
+tested on debian 10 buster with signed kernel 5.5.x & kernel 4.19.x
 ------------------
 
 ## How to install
