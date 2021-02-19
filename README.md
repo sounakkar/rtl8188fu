@@ -55,5 +55,5 @@ xUbuntu 16.04-19.10 / Linux Mint 18.x-19.x
 You can purge packages with following commands
 
 `sudo apt purge rtl8188fu-dkms`
-##optional direct kernel build 
+
 
