@@ -1,5 +1,5 @@
-For Kernel 4.15.x ~ 5.10.x (Linux Mint or Ubuntu or All Debian Derivatives)
-tested on debian with signed kernel 5.10.x & 5.5.x & kernel 4.19.x
+For Kernel 4.15.x ~ 5.11.x (Linux Mint or Ubuntu or All Debian Derivatives)
+tested on debian with signed kernel 5.11.x & 5.10.x & 5.5.x & kernel 4.19.x
 ------------------
 
 ## How to install
@@ -10,9 +10,9 @@ tested on debian with signed kernel 5.10.x & 5.5.x & kernel 4.19.x
 
 `sudo dkms add ./rtl8188fu`
 
-`sudo dkms build rtl8188fu/1.0`
+`sudo dkms build rtl8188fu/1.1`
 
-`sudo dkms install rtl8188fu/1.0`
+`sudo dkms install rtl8188fu/1.1`
 
 `sudo cp ./rtl8188fu/firmware/rtl8188fufw.bin /lib/firmware/rtlwifi/`
 
@@ -30,7 +30,7 @@ Run following commands for disable power management and plugging/replugging issu
 
 ## How to uninstall
 
-`sudo dkms remove rtl8188fu/1.0 --all`
+`sudo dkms remove rtl8188fu/1.1 --all`
 
 `sudo rm -f /lib/firmware/rtlwifi/rtl8188fufw.bin`
 
@@ -43,7 +43,7 @@ Run following commands for disable power management and plugging/replugging issu
 
 You can install rtl81188fu driver with following commands from PPA.
 
-xUbuntu 16.04-19.10 / Linux Mint 18.x-19.x 
+Ubuntu(Latest)  / Linux Mint (latest) / Debian (Stable/SID/unstable)
 
 `sudo add-apt-repository ppa:kelebek333/kablosuz`
 
